@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@handlebars/allow-prototype-access": "^1.0.3",
-    "axios": "^0.21.1",
+    "axios": "^0.21.4",
     "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
     "concurrently": "^5.3.0",
@@ -39,5 +39,13 @@
     "nodemon": "^2.0.4",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branmeco/PlataformaVacantes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/branmeco/PlataformaVacantes/issues"
+  },
+  "homepage": "https://github.com/branmeco/PlataformaVacantes#readme"
 }
